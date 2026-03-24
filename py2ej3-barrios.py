@@ -1,0 +1,5 @@
+text= input('Ingrese una palabra:')
+print('primera letra:',text[0])
+print('ultima letra:',text[-1])
+print("rebanada (primeras 3):", text[:3])
+print("rebanada (desde la 2):", text[1:])
